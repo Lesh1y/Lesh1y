@@ -1,5 +1,12 @@
-### Hi there 👋
+### Hello World 👋
 
+## I'm a simple developer that programs for myself
+
+- 💻 I like to write code
+- 🐍 I’m currently learning Python
+- ⚡ Fun fact: I have discord server where works my bot
+
+<br />
 <!--
 **Lesh1y/Lesh1y** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
