@@ -4,7 +4,7 @@
 
 - 💻 I like to write code
 - 🐍 I’m currently learning Python
-- ⚡ Fun fact: I have discord server where works my bot
+- ⚡ Interesting  fact: I have discord server where works my bot
 
 <br />
 <!--
